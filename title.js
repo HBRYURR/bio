@@ -27,7 +27,7 @@ function animateTitle(Title,delay){
     document.title=newtitle;
   },delay);
 }
-animateTitle('@wifiexploiter',300);
+animateTitle('@HBRYURR',300);
 
 // Third script 
 document.addEventListener("mousemove",function(e){
@@ -47,7 +47,7 @@ function animateTitle(Title,delay){
       document.title=newtitle;
     },delay);
   }
-  animateTitle('@wifiexploiter',300);
+  animateTitle('@HBRYURR',300);
 
   // Third script 
   document.addEventListener("mousemove",function(e){
